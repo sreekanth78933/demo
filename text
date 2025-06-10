@@ -1,7 +1,5 @@
 hello
-apiVersion: v1
+api version: apps/v1
 kind:
 metadata:
-  name:
-spec:
-  containers:
+  name: deployment
