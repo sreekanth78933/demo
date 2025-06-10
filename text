@@ -1,1 +1,7 @@
 hello
+apiVersion: v1
+kind:
+metadata:
+  name:
+spec:
+  containers:
